@@ -1,2 +1,2 @@
 
-To clone the repository:: git clone <url>
+To clone the repository:: git vamsi
