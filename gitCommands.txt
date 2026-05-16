@@ -1,2 +1,2 @@
 
-To clone the repository:: git viajy
+To clone the repository:: git vamsi
