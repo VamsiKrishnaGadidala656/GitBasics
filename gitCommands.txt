@@ -1,2 +1,2 @@
 
-To clone the repository:: git vijay
+To clone the repository:: git abcd
