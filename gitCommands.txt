@@ -1,2 +1,2 @@
 
-To clone the repository:: git abcd
+To clone the repository:: git vamsi
